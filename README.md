@@ -6,21 +6,18 @@ An enterprise-grade, hybrid-automated archive containing production-ready soluti
 
 ## 🛠️ Core Technologies & Automation
 
-<p align="left">
-  <a href="https://leetcode.com"><img src="https://shields.io" alt="LeetCode Profile" /></a>
-  <img src="https://shields.io" alt="Python 3" />
-  <img src="https://shields.io" alt="Java SE" />
-  <img src="https://shields.io" alt="Automation Sync" />
-</p>
+[![LeetCode Profile](https://shields.io)](https://leetcode.com)
+![Python 3](https://shields.io)
+![Java SE](https://shields.io)
+![Automation Sync](https://shields.io)
 
 ### 📈 Live Performance Analytics
 The metrics dashboard below evaluates problem-solving depth, categorical distribution, and runtime efficiency in real time:
 
-<p align="left">
-  <img src="https://herokuapp.com" alt="LeetCode Analytics Engine" />
-</p>
+![LeetCode Analytics Engine](https://vercel.app)
 
 ---
+
 
 ## 🔗 Professional Verification
 
