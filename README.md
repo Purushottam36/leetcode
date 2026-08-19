@@ -6,15 +6,23 @@ An enterprise-grade, hybrid-automated archive containing production-ready soluti
 
 ## 🛠️ Core Technologies & Automation
 
-[![LeetCode Profile](https://shields.io)](https://leetcode.com)
-![Python 3](https://shields.io)
-![Java SE](https://shields.io)
-![Automation Sync](https://shields.io)
+**Platform:** LeetCode (`Purushottam36`) | **Languages:** Python 3, Java SE | **Automation Engine:** LeetSync & LeetPush Pipeline
 
-### 📈 Live Performance Analytics
-The metrics dashboard below evaluates problem-solving depth, categorical distribution, and runtime efficiency in real time:
 
-![LeetCode Analytics Engine](https://vercel.app)
+### 📈 Profile Performance Analytics
+
+```text
+====================================================================
+  LEETCODE METRICS LOG  |  USER: Purushottam36
+====================================================================
+  [✓] Platform Sync     : Active via LeetSync & LeetPush
+  [✓] Core Languages    : Python3 (.py) | Java (.java)
+  [✓] Compilation       : Production Ready, Optimized
+  [✓] Sync Frequency    : Real-Time on "Accepted" Verdict
+====================================================================
+```
+
+> 💡 *Note: To view my real-time visual progress graphics, problem counts, and global ranking percentiles dynamically, explore my official live account metrics directly on the [LeetCode Dashboard](https://leetcode.com).*
 
 ---
 
@@ -52,9 +60,7 @@ graph TD
 ├── 📁 [Problem_ID]_[Problem_Title]/   # Unified modular problem directory
 │   ├── solution.py                     # Multi-paradigm Python 3 implementation
 │   ├── Solution.java                   # Strongly-typed Object-Oriented Java implementation
-│   ├── notes.md                        # Custom runtime complexity logs & alternative approaches
 │   └── README.md                       # Auto-generated problem description & mathematical constraints
-├── 📁 Legacy_Submissions/              # Archived initial iterations
 └── README.md                           # Main repository architectural guide
 ```
 
