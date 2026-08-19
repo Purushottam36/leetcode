@@ -77,17 +77,19 @@ graph TD
 
 ---
 
-## 📈 Engineering Roadmap & Milestone Ledger
+## 📈 Engineering Credentials & Milestone Ledger
 
-The ledger below maps out my planned progressive algorithmic trajectory. Each milestone acts as a strict structural dependency for the next, ensuring foundational patterns are solidified before advancing to complex non-linear architectures.
+The ledger below maps out earned badges, problem accuracy metrics, and programmatic milestones securely archived from my LeetCode dashboard history.
 
-| Milestone Objective | Core Technical Targets | Execution Lifecycle | Status |
+| Milestone / Credential | Focus & Verification | Acquired / Status | Valuation |
 | :--- | :--- | :--- | :--- |
-| **Milestone 1.0: Foundations** | Linear Data Primitives • Sliding Windows • Two-Pointer Convergence • Hash Tables | Q3/Q4 2026 | `ACTIVE` |
-| **Milestone 2.0: Hierarchy** | Non-Linear Topologies • Trees (BST, AVL) • Recursion Mechanics • Backtracking | Q1 2027 | `PIPELINE` |
-| **Milestone 3.0: Networks** | Graph Theory • DFS / BFS Implementations • Disjoint-Set Unions • Shortest Path | Q2 2027 | `PIPELINE` |
-| **Milestone 4.0: Optimization** | High-Dimensional Dynamic Programming • Memoization vs Tabulation • Greedy Heuristics | Q3 2027 | `PIPELINE` |
-| **Milestone 5.0: Low-Level** | Advanced System Logic • Bitwise Masking • Monotonic Stacks • Segment Trees | Q4 2027 | `PIPELINE` |
+| 🛠️ **Algorithm Deconstructor Badge** | Advanced Logic & Computational Flow | `2026-08-16` | **ARCHIVED** |
+| 🧮 **Mathematical Insight Badge** | Number Theory & Formula Derivations | `2026-07-15` | **ARCHIVED** |
+| 🌐 **Data Navigator Badge** | Structural Search & Traversal Logic | `2026-07-12` | **ARCHIVED** |
+| 📅 **Daily Challenge Track** | Consistency & Routine Optimization | `ACTIVE` | **IN PROGRESS** |
+| 🎯 **Global Acceptance Ratio** | Target Quality Control: **61%** Baseline | `MONITORED` | **STABLE** |
+| 🏆 **History Awards Block** | Profile Milestones & Platform Engagement | `UNLOCKED` | **VERIFIED** |
+| ⏳ **Upcoming Badge Milestone** | Next Scheduled System Evaluation | `LOCKED` | **PIPELINE** |
 
 ---
 
