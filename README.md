@@ -87,9 +87,6 @@ The ledger below maps out earned badges, problem accuracy metrics, and programma
 | 🧮 **Mathematical Insight Badge** | Number Theory & Formula Derivations | `2026-07-15` | **ARCHIVED** |
 | 🌐 **Data Navigator Badge** | Structural Search & Traversal Logic | `2026-07-12` | **ARCHIVED** |
 | 📅 **Daily Challenge Track** | Consistency & Routine Optimization | `ACTIVE` | **IN PROGRESS** |
-| 🎯 **Global Acceptance Ratio** | Target Quality Control: **61%** Baseline | `MONITORED` | **STABLE** |
-| 🏆 **History Awards Block** | Profile Milestones & Platform Engagement | `UNLOCKED` | **VERIFIED** |
-| ⏳ **Upcoming Badge Milestone** | Next Scheduled System Evaluation | `LOCKED` | **PIPELINE** |
 
 ---
 
