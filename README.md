@@ -83,6 +83,7 @@ The ledger below maps out earned badges, problem accuracy metrics, and programma
 
 | Milestone / Credential | Focus & Verification | Acquired / Status | Valuation |
 | :--- | :--- | :--- | :--- |
+| 🏗️ **Architecture Builder Badge** | System Design & Infrastructure Scaling | `2026-08-24` | **ARCHIVED** |
 | 🛠️ **Algorithm Deconstructor Badge** | Advanced Logic & Computational Flow | `2026-08-16` | **ARCHIVED** |
 | 🧮 **Mathematical Insight Badge** | Number Theory & Formula Derivations | `2026-07-15` | **ARCHIVED** |
 | 🌐 **Data Navigator Badge** | Structural Search & Traversal Logic | `2026-07-12` | **ARCHIVED** |
