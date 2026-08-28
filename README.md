@@ -267,19 +267,16 @@ This approach keeps the repository README from becoming outdated while allowing 
 ## 🔗 Live Profiles
 
 ### 🟠 LeetCode
-
 **[Purushottam36](https://leetcode.com/u/Purushottam36/)**
 
 My primary platform for solving, submitting, and validating algorithmic problems.
 
 ### 🐙 GitHub
-
 **[Purushottam36](https://github.com/Purushottam36)**
 
 My development profile and home for this synchronized solution archive.
 
 ### 💼 LinkedIn
-
 **[Kumar Purushottam](https://www.linkedin.com/in/kumar-purushottam6136)**
 
 Connect with me professionally and follow my broader development journey.
@@ -356,7 +353,7 @@ Developer • Problem Solver • Continuous Learner
 
 🧠 **LeetCode:** [Purushottam36](https://leetcode.com/u/Purushottam36/)
 
-💼 **LinkedIn:** [Kumar Purushottam](https://www.linkedin.com/in/kumar-purushottam6136)
+💼 **LinkedIn:** [Purushottam Kumar](https://www.linkedin.com/in/kumar-purushottam6136)
 
 ---
 
